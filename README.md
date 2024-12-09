@@ -59,5 +59,5 @@ Endpoints para crear, leer, actualizar y eliminar tópicos en el foro.
 Este proyecto es un desafío educativo y no está abierto a contribuciones externas. Sin embargo, cualquier sugerencia o mejora será bienvenida a través de issues en el repositorio.
 
 # Licencia
-Este proyecto está desarrollado para fines educativos bajo los términos del programa Oracle Next Education (ONE).
+Este proyecto fue desarrollado para fines de aprendisaje bajo los términos de Oracle Next Education (ONE).
 
